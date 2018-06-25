@@ -56,7 +56,8 @@ img:hover {
   
 }
 
-.medium {
+.medium { width:200%;
+  height: 200%;
 }
 
 .large {
