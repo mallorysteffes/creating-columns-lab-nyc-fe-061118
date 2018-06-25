@@ -46,7 +46,7 @@ img:hover {
   background-color: #dd4444;
 }
 
-.column { display:;
+.column { display: block;
     width:33.333%;
   
 }
@@ -60,5 +60,6 @@ img:hover {
   height: 200%;
 }
 
-.large {
+.large {width:300%;
+  heigth: 300%
   }
